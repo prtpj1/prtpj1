@@ -70,10 +70,6 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
 <br>
 </p>
 
-### Redes Sociais:
-<p align="left">
-  </a> <a href="https://www.linkedin.com/in/paulo-porto-jr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
 ### Badges:
 
 <b>My GitHub Stats</b>
