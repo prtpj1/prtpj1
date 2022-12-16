@@ -13,7 +13,7 @@ Mas o FrontEnd não existe sem o BackEnd, ambos se complementam e aprendendo sob
 
 * 🌍  Moro atualmente no Rio de Janeiro, RJ - Brasil
 * ✉️  Você pode me contatar pelo meu email [prtpj1@gmail.com](mailto:prtpj1@gmail.com)
-* <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="36" height="36" alt="Python" /></a>
+* <a href="mailto:prtpj1@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="72" height="24" alt="Python" /></a>
 * 
 * 🧠  I'm learning Python e Raspagem (Web Scraping)
 * ⚡  I'm batman (poor version) :P
