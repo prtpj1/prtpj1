@@ -4,7 +4,7 @@ Eu sou o Paulo, bem vindo(a) ao meu perfil!
 Desenvolvedor Web e Designer
 ----------------------------
 
-Sou um desenvolvedor FullStack formado pela Trybe.<br>
+Sou um Desenvolvedor JR FullStack formado pela Trybe.<br>
 <br>
 Durante os primeiros meses de 2022 aprendi os fundamentos da programação web, versionamento de códigos com Git/GitHub, assim como fui do básico ao avançado em JavaScript (JS), HTML e CSS.<br>
 Com esta base, pude me aprofundar mais e avançar em FrontEnd aprendendo React (Redux e Context API).<br>
@@ -12,7 +12,9 @@ Com esta base, pude me aprofundar mais e avançar em FrontEnd aprendendo React (
 Mas o FrontEnd não existe sem o BackEnd, ambos se complementam e aprendendo sobre Docker, MongoDB, NodeJS, NoSQL, SQL e TypeScript pude ver como uma aplicação web funciona por completo.
 
 * 🌍  Moro atualmente no Rio de Janeiro, RJ - Brasil
-* ✉️  Você pode me contatar pelo meu email [prtpj1@gmail.com](mailto:prtpj1@gmail.com) ou meu perfil no [Linkedin]([https://www.linkedin.com/in/paulo-porto-jr/])
+* ✉️  Você pode me contatar pelo meu email [prtpj1@gmail.com](mailto:prtpj1@gmail.com)
+* <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="36" height="36" alt="Python" /></a>
+* 
 * 🧠  I'm learning Python e Raspagem (Web Scraping)
 * ⚡  I'm batman (poor version) :P
 
