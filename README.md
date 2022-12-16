@@ -4,11 +4,16 @@ Eu sou o Paulo, bem vindo(a) ao meu perfil!
 Desenvolvedor Web e Designer
 ----------------------------
 
-Sou um desenvolvedor FullStack em formação pela Trybe. Durante os primeiros meses de 2022 aprendi os fundamentos da programação web, versionamento de códigos com Git/GitHub, assim como fui do básico ao avançado em JavaScript (JS), HTML e CSS Com esta base, pude me aprofundar mais e avançar em FrontEnd aprendendo React (Redux e Context API). Mas o FrontEnd não existe sem o BackEnd, ambos se complementam e aprendendo sobre Docker, MongoDB, NodeJS, NoSQL, SQL e TypeScript pude ver como uma aplicação web funciona por completo.
+Sou um desenvolvedor FullStack formado pela Trybe.<br>
+<br>
+Durante os primeiros meses de 2022 aprendi os fundamentos da programação web, versionamento de códigos com Git/GitHub, assim como fui do básico ao avançado em JavaScript (JS), HTML e CSS.<br>
+Com esta base, pude me aprofundar mais e avançar em FrontEnd aprendendo React (Redux e Context API).<br>
+<br>
+Mas o FrontEnd não existe sem o BackEnd, ambos se complementam e aprendendo sobre Docker, MongoDB, NodeJS, NoSQL, SQL e TypeScript pude ver como uma aplicação web funciona por completo.
 
-* 🌍  I'm based in Rio de Janeiro, RJ - Brasil
-* ✉️  You can contact me at [prtpj1@gmail.com](mailto:prtpj1@gmail.com)
-* 🧠  I'm learning Python e Raspagem (Web Crawling)
+* 🌍  Moro atualmente no Rio de Janeiro, RJ - Brasil
+* ✉️  Você pode me contatar pelo meu email [prtpj1@gmail.com](mailto:prtpj1@gmail.com) ou meu perfil no [Linkedin]([https://www.linkedin.com/in/paulo-porto-jr/])
+* 🧠  I'm learning Python e Raspagem (Web Scraping)
 * ⚡  I'm batman (poor version) :P
 
 <a href="https://www.github.com/prtpj1" target="_blank" rel="noreferrer"><img
