@@ -18,11 +18,7 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
 <a href="mailto:prtpj1@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="76" height="24" alt="Gmail" /></a>
 <a href="https://www.linkedin.com/in/paulo-porto-jr/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="24" alt="Linkedin" /></a>
 
-### Desenvolvimento de Software:
-<p align="left">
-<img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Linux.png" width="36" height="36" alt="Linux" />
-<br>
-</p>
+
 
 ### FrontEnd:
 <p align="left">
@@ -34,12 +30,17 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
 <br>
 </p>
 
+<!--- 
+<a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="" /></a>
+<img src="" width="36" height="36" alt="" />
+ -->
+
 ### BackEnd:
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Docker.png" width="36" height="36" alt="Docker" /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
@@ -52,6 +53,18 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
 <br>
 </p>
 
+### Ferramentas:
+<p align="left">
+  <img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Linux.png" width="36" height="36" alt="Linux" /> 
+  <img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/GitHub.png" width="36" height="36" alt="Github" />
+  <img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Git.png" width="36" height="36" alt="Git" />
+  <img src="" width="36" height="36" alt="" />
+  <img src="" width="36" height="36" alt="" />
+  <img src="" width="36" height="36" alt="" />
+  <img src="" width="36" height="36" alt="" />
+  <img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/PhotoshopCC.png" width="36" height="36" alt="Photoshop" />
+<br>
+</p>
 ### Criação/Edição Visual:
 <p align="left">
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
@@ -59,7 +72,8 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
 </p>
 
 ### Redes Sociais:
-<p align="left"> <a href="https://www.github.com/prtpj1" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/GitHub.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/paulo-porto-jr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+  </a> <a href="https://www.linkedin.com/in/paulo-porto-jr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
