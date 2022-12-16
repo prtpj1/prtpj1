@@ -55,14 +55,17 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
 
 ### Ferramentas:
 <p align="left">
-  <img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Linux.png" width="36" height="36" alt="Linux" /> 
-  <img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/GitHub.png" width="36" height="36" alt="Github" />
-  <img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Git.png" width="36" height="36" alt="Git" />
-  <img src="" width="36" height="36" alt="" />
-  <img src="" width="36" height="36" alt="" />
-  <img src="" width="36" height="36" alt="" />
-  <img src="" width="36" height="36" alt="" />
-  <img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/PhotoshopCC.png" width="36" height="36" alt="Photoshop" />
+ <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Linux.png" width="36" height="36" alt="Linux Ubuntu" /></a>
+ <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/GitHub.png" width="36" height="36" alt="GitHub" /></a>
+ <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Git.png" width="36" height="36" alt="Git" /></a>
+ <a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="" /></a>
+ <a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="" /></a>
+ <a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="" /></a>
+ <a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="" /></a>
+ <a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="" /></a>
+ <a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="" /></a>
+ <a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="" /></a>
+ <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/PhotoshopCC.png" width="36" height="36" alt="Photoshop" /></a>
 <br>
 </p>
 ### Criação/Edição Visual:
