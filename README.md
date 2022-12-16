@@ -1,5 +1,4 @@
-Bem vindo(a) ao meu GitHub,
-Eu sou o Paulo!
+Eu sou o Paulo, bem vindo(a) ao meu perfil!
 ===============================
 
 Desenvolvedor Web e Designer
