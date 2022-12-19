@@ -15,8 +15,8 @@ Mas o FrontEnd não existe sem o BackEnd, ambos se complementam e aprendendo sob
 Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados, Metodolgias Ágeis, Padrões de Projeto(Design Pattern), Python, Raspagem de Dados, SOLID** e **TDD (Test Driven Development)**. 
 
 ### Contato:
-<a href="mailto:prtpj1@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="76" height="24" alt="Gmail" /></a>
-<a href="https://www.linkedin.com/in/paulo-porto-jr/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="24" alt="Linkedin" /></a>
+<a href="mailto:prtpj1@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Gmail.png" width="50" height="50" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/paulo-porto-jr/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Linkedin.png" width="50" height="50" alt="Linkedin" /></a>
 
 
 
