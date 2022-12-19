@@ -78,7 +78,10 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
 
 <a href="http://www.github.com/prtpj1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prtpj1&stroke=ffffff&background=581c87&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/prtpj1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prtpj1&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/prtpj1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prtpj1&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en&custom_title=Linguagens%20%mais%20%usadas" alt="Top Languages" /></a>
 
 <a href="https://www.github.com/prtpj1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/prtpj1?logo=github&style=for-the-badge&color=facc15&labelColor=581c87" /></a>
+src="https://img.shields.io/github/followers/prtpj1?logo=github&style=for-the-badge&color=blueviolet&labelColor=gray&label=Seguidores" /></a>
+<br>
+<img src="https://komarev.com/ghpvc/?username=prtpj1&color=blueviolet&style=for-the-badge&label=Visualizações" alt="profile-views" />
+
