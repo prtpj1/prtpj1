@@ -1,6 +1,6 @@
 Eu sou o Paulo, bem vindo(a) ao meu perfil!
 ===============================
-Nasci em 82 e atualmente estou em transição de carreira. Uma nova e empolgante jornada iniciada em Tecnologia da Informação.
+Nasci em 1982 e atualmente estou em transição de carreira. Uma nova e empolgante jornada iniciada em Tecnologia da Informação.
 
 Desenvolvedor Web e Designer
 ----------------------------
@@ -72,7 +72,7 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
 
 ### Badges:
 
-<b>My GitHub Stats</b>
+<b>Meus Stats no GitHub</b>
 
 <a href="http://www.github.com/prtpj1"><img src="https://github-readme-stats.vercel.app/api?username=prtpj1&show_icons=true&hide=&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&show_icons=true" alt="prtpj1's GitHub stats" /></a>
 
