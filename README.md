@@ -80,9 +80,7 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
  <a href="https://github.com/prtpj1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prtpj1&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en&custom_title=Linguagens%20%mais%20%usadas" alt="Top Languages" /></a>
 </p>
 
-<p align="center">
  <a href="https://www.github.com/prtpj1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/prtpj1?logo=github&style=for-the-badge&color=680fcf&labelColor=ffd500&logoColor=680fcf&label=Seguidores" /></a>
-</p>
  ![visitor badge](https://vbr.wocr.tk/badge?page_id=prtpj1&style=for-the-badge&color=680fcf&lcolor=ffd500&logo=GitHub-Sponsors&logoColor=680fcf&text=Visualizações)
 
