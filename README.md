@@ -70,8 +70,6 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
 <br>
 </p>
 
-### Badges:
-
 <p align="center">
 <a href="http://www.github.com/prtpj1"><img src="https://github-readme-stats.vercel.app/api?username=prtpj1&show_icons=true&hide=&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&show_icons=true" alt="prtpj1's GitHub stats" /></a><a href="http://www.github.com/prtpj1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prtpj1&stroke=ffffff&background=581c87&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
