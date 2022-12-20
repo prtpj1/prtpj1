@@ -14,11 +14,13 @@ Com esta base, pude me aprofundar mais e avançar em FrontEnd aprendendo **React
 Mas o FrontEnd não existe sem o BackEnd, ambos se complementam e aprendendo sobre **Docker, MongoDB, NodeJS, NoSQL, SQL** e **TypeScript** pude ver como uma aplicação web funciona por completo. Assim como também testar o codigo com **Testes de Intregração**.<br>
 
 Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados, Metodolgias Ágeis, Padrões de Projeto(Design Pattern), Python, Raspagem de Dados, SOLID** e **TDD (Test Driven Development)**. 
+<hr />
 
 ### Contato:
 <a href="mailto:prtpj1@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Gmail.png" width="50" height="50" alt="Gmail" /></a>
 <a href="https://www.linkedin.com/in/paulo-porto-jr/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Linkedin.png" width="50" height="50" alt="Linkedin" /></a>
 
+<hr />
 
 ### FrontEnd:
 <p align="left">
@@ -69,7 +71,7 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <br>
 </p>
-
+<hr />
 <p align="center">
 <a href="http://www.github.com/prtpj1"><img src="https://github-readme-stats.vercel.app/api?username=prtpj1&show_icons=true&hide=&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&show_icons=true" alt="prtpj1's GitHub stats" /></a><a href="http://www.github.com/prtpj1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prtpj1&stroke=ffffff&background=581c87&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
