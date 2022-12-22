@@ -1,5 +1,7 @@
-Eu sou o Paulo, bem vindo(a) ao meu perfil!
-===============================
+
+<img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Header_GitHub3.png" alt="header" />
+
+<h1>Eu sou o Paulo, bem vindo(a) ao meu perfil!</h1>
 Nasci em 1982 e atualmente estou em transição de carreira. Uma nova e empolgante jornada iniciada em Tecnologia da Informação.
 
 
