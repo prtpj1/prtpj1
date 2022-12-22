@@ -17,8 +17,8 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
 <hr />
 
 ### Contato:
-<a href="mailto:prtpj1@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Gmail.png" width="50" height="50" alt="Gmail" /></a>
-<a href="https://www.linkedin.com/in/paulo-porto-jr/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Linkedin.png" width="50" height="50" alt="Linkedin" /></a>
+<a href="mailto:prtpj1@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Gmail2.png" width="50" height="50" alt="Gmail" /></a><a href="https://www.linkedin.com/in/paulo-porto-jr/" target="_blank" rel="noreferrer">
+ <img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Linkedin2.png" width="50" height="50" alt="Linkedin" /></a>
 
 <hr />
 
