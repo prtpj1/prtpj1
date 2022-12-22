@@ -17,20 +17,20 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
 <hr />
 
 ### Contato:
-<a href="mailto:prtpj1@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Gmail2.png" width="50" height="50" alt="Gmail" /></a><a href="https://www.linkedin.com/in/paulo-porto-jr/" target="_blank" rel="noreferrer">
- <img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Linkedin2.png" width="50" height="50" alt="Linkedin" /></a>
+<a href="mailto:prtpj1@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Gmail2.png" width="70" height="70" alt="Gmail" /></a><a href="https://www.linkedin.com/in/paulo-porto-jr/" target="_blank" rel="noreferrer">
+ <img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Linkedin2.png" width="70" height="70" alt="Linkedin" /></a>
 
 <hr />
 
 ### FrontEnd:
 <p align="left">
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/JavaScript.png" width="36" height="36" alt="JavaScript" /></a>
- <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/html-5.png" width="36" height="36" alt="HTML5" /></a>
- <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/CSS.png" width="36" height="36" alt="CSS3" /></a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
- <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
- <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/RTL.png" width="36" height="36" alt="RTL" /></a>
- <a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Jest.png" width="36" height="36" alt="Jest" /></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/JavaScript2.png" width="90" height="90" alt="JavaScript" /></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/html2.png" width="90" height="90" alt="" /></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/CSS2.png" width="90" height="90" alt="CSS3" /></a>
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/React2.png" width="90" height="90" alt="" /></a>
+ <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Redux2.png" width="90" height="90" alt="" /></a>
+ <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/RTL2.png" width="90" height="90" alt="" /></a>
+ <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Jest2.png" width="90" height="90" alt="" /></a>
 <br>
 </p>
 
@@ -41,34 +41,34 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
 
 ### BackEnd:
 <p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/express.png" width="36" height="36" alt="Express" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Docker.png" width="36" height="36" alt="Docker" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Typescript2.png" width="90" height="90" alt="TypeScript" /></a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/NodeJS2.png" width="90" height="90" alt="NodeJS" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/express2.png" width="90" height="90" alt="Express" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Docker2.png" width="90" height="90" alt="Docker" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/MongoDB2.png" width="90" height="90" alt="MongoDB" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/mySQL2.png" width="90" height="90" alt="MySQL" /></a>
+  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Heroku2.png" width="90" height="90" alt="Heroku" /></a>
 <br>
 </p>
 
 ### Ciência da Computação:
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://docs.pytest.org/en/7.2.x/index.html" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Pytest.png" width="36" height="36" alt="Pytest" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Python2.png" width="90" height="90" alt="Python" /></a>
+  <a href="https://docs.pytest.org/en/7.2.x/index.html" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Pytest2.png" width="90" height="90" alt="Pytest" /></a>
 <br>
 </p>
 
 ### Ferramentas:
 <p align="left">
- <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Linux.png" width="36" height="36" alt="Linux Ubuntu" /></a>
- <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/GitHub2.png" width="36" height="36" alt="GitHub" /></a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Git.png" width="36" height="36" alt="Git" /></a>
- <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/VSC.png" width="36" height="36" alt="VSCode" /></a>
- <a href="https://slack.com/intl/pt-br" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/slack.png" width="36" height="36" alt="Slack" /></a>
- <a href="https://zoom.us/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Zoom.png" width="36" height="36" alt="Zoom" /></a>
- <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Trello.png" width="36" height="36" alt="Trello" /></a>
- <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/PhotoshopCC.png" width="36" height="36" alt="Photoshop" /></a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+ <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Linux2.png" width="90" height="90" alt="Linux Ubuntu" /></a>
+ <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/GitHub3.png" width="90" height="90" alt="GitHub" /></a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Git2.png" width="90" height="90" alt="Git" /></a>
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/VSC2.png" width="90" height="90" alt="VSCode" /></a>
+ <a href="https://slack.com/intl/pt-br" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/slack2.png" width="90" height="90" alt="Slack" /></a>
+ <a href="https://zoom.us/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Zoom2.png" width="90" height="90" alt="Zoom" /></a>
+ <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Trello2.png" width="90" height="90" alt="Trello" /></a>
+ <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/PhotoshopCC2.png" width="90" height="90" alt="Photoshop" /></a>
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/figma2.png" width="90" height="90" alt="Figma" /></a>
 <br>
 </p>
 <hr />
