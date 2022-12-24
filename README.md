@@ -10,7 +10,6 @@ Desenvolvedor Web e Designer
 Sou um Desenvolvedor JR FullStack formado pela Trybe.<br>
 
 Durante os primeiros meses de 2022 aprendi os fundamentos da programação web, versionamento de códigos com **Git/GitHub**, assim como fui do básico ao avançado em **JavaScript(JS)**, **HTML** e **CSS**, além de aprender a fazer **Testes Unitários** com **Jest**.<br>
-<img style="float: right;" src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Gmail2.png">
 
 Com esta base, pude me aprofundar mais e avançar em FrontEnd aprendendo **React(Redux e Context API)** e **RTL(React Testing Library)**.<br>
 
@@ -18,10 +17,6 @@ Mas o FrontEnd não existe sem o BackEnd, ambos se complementam e aprendendo sob
 
 Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados, Metodolgias Ágeis, Padrões de Projeto(Design Pattern), Python, Raspagem de Dados, SOLID** e **TDD (Test Driven Development)**. 
 <hr />
-
-
-
-
 
 ### Contato:
 <a href="mailto:prtpj1@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Gmail2.png" width="70" height="70" alt="Gmail" /></a><a href="https://www.linkedin.com/in/paulo-porto-jr/" target="_blank" rel="noreferrer">
