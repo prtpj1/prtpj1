@@ -7,7 +7,7 @@ Nasci em 1982 e atualmente estou em transição de carreira. Uma nova e empolgan
 
 Desenvolvedor Web e Designer
 ----------------------------
-Sou um Desenvolvedor JR FullStack formado pela Trybe.<br>
+Sou um Desenvolvedor JR FullStack formado pela Trybe que adora o Front-End.<br>
 
 Durante os primeiros meses de 2022 aprendi os fundamentos da programação web, versionamento de códigos com **Git/GitHub**, assim como fui do básico ao avançado em **JavaScript(JS)**, **HTML** e **CSS**, além de aprender a fazer **Testes Unitários** com **Jest**.<br>
 
