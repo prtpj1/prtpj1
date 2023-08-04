@@ -1,13 +1,35 @@
 
 <img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Header_GitHub3.png" alt="header" />
+<p align="center">
+<a href="#">English</a> •
+<a href="#">Portugues</a> •
+<a href="#">Contact/Contato</a> •
+<a href="#">Stacks</a>
+</p>
+<hr/>
 
-<h1>Eu sou o Paulo, bem vindo(a) ao meu perfil!</h1>
+# <img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/GitHub.png" width="32" height="32" alt="HTML" /> I'm Paulo, welcome to my profile!
+I born in 1982 and currently in career transition. I'm starting a new and exciting path in my life as Developer.
+
+## Developer & Designer
+
+I'm a developer certified by [Trybe](https://www.linkedin.com/school/betrybe/) in Brazil.<br>
+
+During my first months in 2022 I did learn the foundations of web developing, code versioning with **Git/GitHub**, just as I went from basic to advanved in **JavaScript(JS)**, **HTML** and **CSS**, besides learning how to test my code with **Unit Tests** with **Jest**.<br>
+
+After developing foundation, I could go deep and start the FrontEnd module learning **React** and **RTL(React Testing Library)**.<br>
+
+Months later I understood frontend and backend works together to create a application. Then I started learning **Docker, MongoDB, NodeJS, NoSQL, SQL** and **TypeScript** and I could understand how a web application works and how to test it with **Integration Tests**.<br>
+
+I did learn too about **Algorithms, Software Archtechture (MSC), Data Structure, Agile Methodologies, Design Patterns, Python, Data Scraping, SOLID and TDD (Test Driven Development)**. 
+<hr/>
+
+# <img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/GitHub.png" width="32" height="32" alt="HTML" /> Eu sou o Paulo, bem vindo(a) ao meu perfil!
 Nasci em 1982 e atualmente estou em transição de carreira. Uma nova e empolgante jornada iniciada como Desenvolvedor.
 
+## Desenvolvedor e Designer
 
-Desenvolvedor e Designer
-----------------------------
-Sou um Desenvolvedor formado pela Trybe.<br>
+Sou um Desenvolvedor certificado pela [Trybe](https://www.linkedin.com/school/betrybe/).<br>
 
 Durante os primeiros meses de 2022 aprendi os fundamentos da programação web, versionamento de códigos com **Git/GitHub**, assim como fui do básico ao avançado em **JavaScript(JS)**, **HTML** e **CSS**, além de aprender a fazer **Testes Unitários** com **Jest**.<br>
 
@@ -18,7 +40,7 @@ Mas o FrontEnd não existe sem o BackEnd, ambos se complementam e aprendendo sob
 Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados, Metodolgias Ágeis, Padrões de Projeto(Design Pattern), Python, Raspagem de Dados, SOLID** e **TDD (Test Driven Development)**. 
 <hr />
 
-### Contato:
+### Contact / Contato:
 <a href="mailto:prtpj1@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Gmail2.png" width="60" height="60" alt="Gmail Icon" /></a><a href="https://www.linkedin.com/in/paulo-porto-jr/" target="_blank" rel="noreferrer">
  <img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Linkedin2.png" width="60" height="60" alt="Linkedin Icon" /></a>
 
@@ -53,14 +75,14 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
 <br>
 </p>
 
-### Ciência da Computação:
+### Computing Science / Ciência da Computação:
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Python2.png" width="60" height="60" alt="Python Icon" /></a>
   <a href="https://docs.pytest.org/en/7.2.x/index.html" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Pytest2.png" width="60" height="60" alt="Pytest Icon" /></a>
 <br>
 </p>
 
-### Ferramentas:
+### Tools / Ferramentas:
 <p align="left">
  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Linux2.png" width="50" height="50" alt="Linux Ubuntu Icon" /></a>
  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/GitHub3.png" width="50" height="50" alt="GitHub Icon" /></a>
