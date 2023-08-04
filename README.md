@@ -5,13 +5,13 @@
 Nasci em 1982 e atualmente estou em transição de carreira. Uma nova e empolgante jornada iniciada como Desenvolvedor.
 
 
-Desenvolvedor Web e Designer
+Desenvolvedor e Designer
 ----------------------------
-Sou um Desenvolvedor JR FullStack formado pela Trybe que adora o Front-End.<br>
+Sou um Desenvolvedor formado pela Trybe.<br>
 
 Durante os primeiros meses de 2022 aprendi os fundamentos da programação web, versionamento de códigos com **Git/GitHub**, assim como fui do básico ao avançado em **JavaScript(JS)**, **HTML** e **CSS**, além de aprender a fazer **Testes Unitários** com **Jest**.<br>
 
-Com esta base, pude me aprofundar mais e avançar em FrontEnd aprendendo **React(Redux e Context API)** e **RTL(React Testing Library)**.<br>
+Com esta base, pude me aprofundar mais e avançar em FrontEnd aprendendo **React** e **RTL(React Testing Library)**.<br>
 
 Mas o FrontEnd não existe sem o BackEnd, ambos se complementam e aprendendo sobre **Docker, MongoDB, NodeJS, NoSQL, SQL** e **TypeScript** pude ver como uma aplicação web funciona por completo. Assim como também testar o codigo com **Testes de Intregração**.<br>
 
