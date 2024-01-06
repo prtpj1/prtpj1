@@ -1,8 +1,8 @@
 
 <img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Header_GitHub3.png" alt="header" />
 <p align="center">
-<a href="#-im-paulo-welcome-to-my-profile">English</a> •
-<a href="#-eu-sou-o-paulo-bem-vindoa-ao-meu-perfil">Portugues</a> •
+<a href="#-im-paulo-welcome-to-my-profile">About Me</a> •
+<a href="#-eu-sou-o-paulo-bem-vindoa-ao-meu-perfil">Sobre mim</a> •
 <a href="#contact--contato">Contact/Contato</a> •
 <a href="#frontend">Stacks</a>
 </p>
