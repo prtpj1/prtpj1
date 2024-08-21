@@ -96,16 +96,67 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
 <br>
 </p>
 <hr />
-<p align="center">
+
+##  🚧 Meus Projetos Acadêmicos 🚧
+
+<table>
+  <tr>
+   <td width="500px">
+ 
+   [1º Lessons Learned - Fundamentos](https://github.com/prtpj1/project-lessons-learned)  
+   [2º Playground Functions - Fundamentos](https://github.com/prtpj1/project-playground-functions)  
+   [3º Pixels Art - Fundamentos](https://github.com/prtpj1/project-pixels-art)  
+   [4º ToDo List - Fundamentos](https://github.com/prtpj1/project-todo-list)  
+   [5º Trybewarts - Fundamentos](https://github.com/prtpj1/project-trybewarts)  
+   [6º Unit Tests - Fundamentos](https://github.com/prtpj1/project-js-unit-tests)  
+   [7º ZooFunctions - Fundamentos](https://github.com/prtpj1/project-zoo-functions)  
+   [8º Shopping Cart - FrontEnd](https://github.com/prtpj1/projeto-shopping-cart)  
+   [9º Solar System - FrontEnd](https://github.com/prtpj1/project-solar-system)  
+   [10º Tryunfo - FrontEnd](https://github.com/prtpj1/project-tryunfo)  
+   [11º TrybeTunes - FrontEnd](https://github.com/prtpj1/project-trybetunes)  
+   [12º OnlineStore - FrontEnd](https://github.com/prtpj1/project-online-store)  
+   [13º React Testing Library - FrontEnd](https://github.com/prtpj1/projeto-react-testing-library)  
+   [14º My Wallet - FrontEnd](https://github.com/prtpj1/projeto-my-wallet)  
+   [15º Trivia - FrontEnd](https://github.com/prtpj1/project-trivia)  
+   [16º 🚧]()  
+   [17º Recipes App - FrontEnd](https://github.com/prtpj1/app-recipes)  
+
+   </td>
+   <td width="500px"> 
+     
+   [18º ToDo List (Docker) - BackEnd](https://github.com/prtpj1/project-docker-todo-list)  
+   [19º All for One - BackEnd](https://github.com/prtpj1/project-mysql-all-for-one)  
+   [20º One for All - BackEnd](https://github.com/prtpj1/project-mysql-one-for-all)  
+   [21º Talker Manager - BackEnd](https://github.com/prtpj1/project-talker-manager)  
+   [22º Store Manager - BackEnd](https://github.com/prtpj1/project-store-manager)  
+   [23º Blogs API - BackEnd](https://github.com/prtpj1/project-blogs-api)  
+   [24º 🚧]()  
+   [25º Trybesmith - BackEnd](https://github.com/prtpj1/project-trybesmith)  
+   [26º Trybers & Dragons - BackEnd](https://github.com/prtpj1/project-trybers-and-dragons)  
+   [27º 🚧]()  
+   [28º 🚧]()  
+   [29º 🚧]()  
+   [30º 🚧](https://github.com/prtpj1/your-fullstack-project)  
+   [31º 🚧]()  
+   [32º 🚧]()  
+   [33º 🚧]()  
+   [34º 🚧]()  
+   [35º 🚧]()  
+
+   </td>
+   
+  </tr>  
+</table>
+
+
+<!--<p align="center">
  <a href="http://www.github.com/prtpj1"><img src="https://github-readme-stats.vercel.app/api?username=prtpj1&show_icons=true&hide=&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=4c1d95&hide_border=true&show_icons=true" width=46% alt="prtpj1's GitHub stats" /></a> <a href="http://www.github.com/prtpj1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prtpj1&stroke=ffffff&background=4c1d95&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width=51% /></a>
  <a href="https://github.com/prtpj1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prtpj1&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=4c1d95&hide_border=true&locale=en&custom_title=Linguagens%20%mais%20%usadas" width=30% alt="Top Languages" /></a>
 </p>
-<!--<p align="center">
+<p align="center">
  <a href="https://github.com/prtpj1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prtpj1&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=4c1d95&hide_border=true&locale=en&custom_title=Linguagens%20%mais%20%usadas" width=30% alt="Top Languages" /></a>
-</p>-->
-
- 
+</p>
 <a href="https://www.github.com/prtpj1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/prtpj1?logo=github&style=for-the-badge&color=4c1d95&labelColor=ffd500&logoColor=4c1d95&label=Seguidores" /></a>
-![visitor badge](https://vbr.wocr.tk/badge?page_id=prtpj1&style=for-the-badge&color=4c1d95&lcolor=ffd500&logo=GitHub-Sponsors&logoColor=4c1d95&text=Visualizações)
+![visitor badge](https://vbr.wocr.tk/badge?page_id=prtpj1&style=for-the-badge&color=4c1d95&lcolor=ffd500&logo=GitHub-Sponsors&logoColor=4c1d95&text=Visualizações) -->
  
