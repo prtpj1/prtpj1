@@ -137,7 +137,7 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
    [28º 🚧]()  
    [29º 🚧]()  
    [30º 🚧](https://github.com/prtpj1/your-fullstack-project)  
-   [31º 🚧]()  
+   [31º Job Insights - Computer Science (Python)](https://github.com/prtpj1/project-job-insights)  
    [32º 🚧]()  
    [33º 🚧]()  
    [34º 🚧]()  
