@@ -71,7 +71,6 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Docker2.png" width="60" height="60" alt="Docker Icon" /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/MongoDB2.png" width="60" height="60" alt="MongoDB Icon" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/mySQL2.png" width="60" height="60" alt="MySQL Icon" /></a>
-  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Heroku2.png" width="60" height="60" alt="Heroku Icon" /></a>
 <br>
 </p>
 
@@ -150,7 +149,7 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
 
 
 <!--<p align="center">
- <a href="http://www.github.com/prtpj1"><img src="https://github-readme-stats.vercel.app/api?username=prtpj1&show_icons=true&hide=&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=4c1d95&hide_border=true&show_icons=true" width=46% alt="prtpj1's GitHub stats" /></a> <a href="http://www.github.com/prtpj1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prtpj1&stroke=ffffff&background=4c1d95&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width=51% /></a>
+ <a href="http://www.github.com/prtpj1"><img src="https://github-readme-stats.vercel.app/api?username=prtpj1&show_icons=true&hide=&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=4c1d95&hide_border=true&show_icons=true" width=46% alt="prtpj1's GitHub stats" /></a> 
  <a href="https://github.com/prtpj1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prtpj1&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=4c1d95&hide_border=true&locale=en&custom_title=Linguagens%20%mais%20%usadas" width=30% alt="Top Languages" /></a>
 </p>
 <p align="center">
