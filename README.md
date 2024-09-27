@@ -139,8 +139,8 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
    [31º Job Insights - Computer Science (Python)](https://github.com/prtpj1/project-job-insights)  
    [32º Inventory Report - Computer Science (Python)](https://github.com/prtpj1/project-inventory-report)  
    [33º 🚧]()  
-   [34º 🚧]()  
-   [35º 🚧]()  
+   [34º Algorithms - Computer Science (Python)](https://github.com/prtpj1/project-algorithms)  
+   [35º TING - Computer Science (Python)⭐](https://github.com/prtpj1/project-ting)  
 
    </td>
    
