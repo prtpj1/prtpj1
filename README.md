@@ -4,7 +4,8 @@
 <a href="#-im-paulo-welcome-to-my-profile">About Me</a> •
 <a href="#-eu-sou-o-paulo-bem-vindoa-ao-meu-perfil">Sobre mim</a> •
 <a href="#contact--contato">Contact/Contato</a> •
-<a href="#frontend">Stacks</a>
+<a href="#frontend">Stacks</a> •
+<a href="#-my-academic-projects--meus-projetos-acad%C3%AAmicos-">Academic Projects/Projetos Acadêmicos</a>
 </p>
 <hr/>
 
@@ -96,19 +97,19 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
 </p>
 <hr />
 
-##  🚧 Meus Projetos Acadêmicos 🚧
+##  🚧 My Academic Projects / Meus Projetos Acadêmicos 🚧
 
 <table>
   <tr>
    <td width="500px">
  
-   [1º Lessons Learned - Fundamentos](https://github.com/prtpj1/project-lessons-learned)  
-   [2º Playground Functions - Fundamentos](https://github.com/prtpj1/project-playground-functions)  
-   [3º Pixels Art - Fundamentos](https://github.com/prtpj1/project-pixels-art)  
-   [4º ToDo List - Fundamentos](https://github.com/prtpj1/project-todo-list)  
-   [5º Trybewarts - Fundamentos](https://github.com/prtpj1/project-trybewarts)  
-   [6º Unit Tests - Fundamentos](https://github.com/prtpj1/project-js-unit-tests)  
-   [7º ZooFunctions - Fundamentos](https://github.com/prtpj1/project-zoo-functions)  
+   [1º Lessons Learned - Foundations](https://github.com/prtpj1/project-lessons-learned)  
+   [2º Playground Functions - Foundations](https://github.com/prtpj1/project-playground-functions)  
+   [3º Pixels Art - Foundations](https://github.com/prtpj1/project-pixels-art)  
+   [4º ToDo List - Foundations](https://github.com/prtpj1/project-todo-list)  
+   [5º Trybewarts - Foundations](https://github.com/prtpj1/project-trybewarts)  
+   [6º Unit Tests - Foundations](https://github.com/prtpj1/project-js-unit-tests)  
+   [7º ZooFunctions - Foundations](https://github.com/prtpj1/project-zoo-functions)  
    [8º Shopping Cart - FrontEnd ⭐](https://github.com/prtpj1/projeto-shopping-cart)  
    [9º Solar System - FrontEnd](https://github.com/prtpj1/project-solar-system)  
    [10º Tryunfo - FrontEnd](https://github.com/prtpj1/project-tryunfo)  
