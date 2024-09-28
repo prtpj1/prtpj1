@@ -101,52 +101,64 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
 
 <table>
   <tr>
-   <td width="500px">
- 
-   [1º Lessons Learned - Foundations](https://github.com/prtpj1/project-lessons-learned)  
-   [2º Playground Functions - Foundations](https://github.com/prtpj1/project-playground-functions)  
-   [3º Pixels Art - Foundations](https://github.com/prtpj1/project-pixels-art)  
-   [4º ToDo List - Foundations](https://github.com/prtpj1/project-todo-list)  
-   [5º Trybewarts - Foundations](https://github.com/prtpj1/project-trybewarts)  
-   [6º Unit Tests - Foundations](https://github.com/prtpj1/project-js-unit-tests)  
-   [7º ZooFunctions - Foundations](https://github.com/prtpj1/project-zoo-functions)  
-   [8º Shopping Cart - FrontEnd ⭐](https://github.com/prtpj1/projeto-shopping-cart)  
-   [9º Solar System - FrontEnd](https://github.com/prtpj1/project-solar-system)  
-   [10º Tryunfo - FrontEnd](https://github.com/prtpj1/project-tryunfo)  
-   [11º TrybeTunes - FrontEnd](https://github.com/prtpj1/project-trybetunes)  
-   [12º OnlineStore 🧑‍🤝‍🧑- FrontEnd](https://github.com/prtpj1/project-online-store)  
-   [13º React Testing Library - FrontEnd](https://github.com/prtpj1/projeto-react-testing-library)  
-   [14º My Wallet - FrontEnd](https://github.com/prtpj1/projeto-my-wallet)  
-   [15º Trivia - FrontEnd ⭐](https://github.com/prtpj1/project-trivia)  
-   [16º 🚧]()  
-   [17º Recipes App 🧑‍🤝‍🧑- FrontEnd ⭐](https://github.com/prtpj1/app-recipes)  
-
-   </td>
-   <td width="500px"> 
-     
-   [18º ToDo List (Docker) - BackEnd](https://github.com/prtpj1/project-docker-todo-list)  
-   [19º All for One - BackEnd](https://github.com/prtpj1/project-mysql-all-for-one)  
-   [20º One for All - BackEnd](https://github.com/prtpj1/project-mysql-one-for-all)  
-   [21º Talker Manager - BackEnd](https://github.com/prtpj1/project-talker-manager)  
-   [22º Store Manager - BackEnd ⭐](https://github.com/prtpj1/project-store-manager)  
-   [23º Blogs API - BackEnd ⭐](https://github.com/prtpj1/project-blogs-api)  
-   [24º 🚧]()  
-   [25º Trybesmith - BackEnd ⭐](https://github.com/prtpj1/project-trybesmith)  
-   [26º Trybers & Dragons - BackEnd](https://github.com/prtpj1/project-trybers-and-dragons)  
-   [27º 🚧]()  
-   [28º 🚧]()  
-   [29º 🚧]()  
-   [30º 🚧](https://github.com/prtpj1/your-fullstack-project)  
-   [31º Job Insights - Computer Science (Python)](https://github.com/prtpj1/project-job-insights)  
-   [32º Inventory Report - Computer Science (Python)](https://github.com/prtpj1/project-inventory-report)  
-   [33º 🚧]()  
-   [34º Algorithms - Computer Science (Python)](https://github.com/prtpj1/project-algorithms)  
-   [35º TING - Computer Science (Python)⭐](https://github.com/prtpj1/project-ting)  
-
-   </td>
-   
-  </tr>  
+    <th width="500px">Foundations - HTML | CSS | JavaScript | Jest</th>
+    <th width="500px">FrontEnd - React | Redux | ContextAPI | Jest | RTL</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/prtpj1/project-lessons-learned">1º Lessons Learned</a><br>
+      <a href="https://github.com/prtpj1/project-playground-functions">2º Playground Functions</a><br>
+      <a href="https://github.com/prtpj1/project-pixels-art">3º Pixels Art</a><br>
+      <a href="https://github.com/prtpj1/project-todo-list">4º ToDo List</a><br>
+      <a href="https://github.com/prtpj1/project-trybewarts">5º Trybewarts</a><br>
+      <a href="https://github.com/prtpj1/project-js-unit-tests">6º Unit Tests</a><br>
+      <a href="https://github.com/prtpj1/project-zoo-functions">7º ZooFunctions</a>
+    </td>
+    <td>
+      <a href="https://github.com/prtpj1/projeto-shopping-cart">8º Shopping Cart⭐</a><br>
+      <a href="https://github.com/prtpj1/project-solar-system">9º Solar System</a><br>
+      <a href="https://github.com/prtpj1/project-tryunfo">10º Tryunfo</a><br>
+      <a href="https://github.com/prtpj1/project-trybetunes">11º TrybeTunes</a><br>
+      <a href="https://github.com/prtpj1/project-online-store">12º OnlineStore🧑‍🤝‍🧑</a><br>
+      <a href="https://github.com/prtpj1/projeto-react-testing-library">13º React Testing Library</a><br>
+      <a href="https://github.com/prtpj1/projeto-my-wallet">14º My Wallet</a><br>
+      <a href="https://github.com/prtpj1/project-trivia">15º Trivia⭐</a><br>
+      <a href="#">16º 🚧</a><br>
+      <a href="https://github.com/prtpj1/app-recipes">17º Recipes App🧑‍🤝‍🧑⭐</a>
+    </td>
+  </tr>
+  <tr>
+    <th>BackEnd - NodeJS | Express | Docker | MySQL | MongoDB</th>
+    <th>Computer Science - Python | PyTest</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/prtpj1/project-docker-todo-list">18º ToDo List (Docker)</a><br>
+      <a href="https://github.com/prtpj1/project-mysql-all-for-one">19º All for One</a><br>
+      <a href="https://github.com/prtpj1/project-mysql-one-for-all">20º One for All</a><br>
+      <a href="https://github.com/prtpj1/project-talker-manager">21º Talker Manager</a><br>
+      <a href="https://github.com/prtpj1/project-store-manager">22º Store Manager⭐</a><br>
+      <a href="https://github.com/prtpj1/project-blogs-api">23º Blogs API⭐</a><br>
+      <a href="#">24º 🚧</a><br>
+      <a href="https://github.com/prtpj1/project-trybesmith">25º Trybesmith⭐</a><br>
+      <a href="https://github.com/prtpj1/project-trybers-and-dragons">26º Trybers & Dragons</a><br>
+      <a href="#">27º 🚧</a><br>
+      <a href="#">28º 🚧</a><br>
+      <a href="#">29º 🚧</a><br>
+      <a href="#">30º 🚧</a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/prtpj1/project-job-insights">31º Job Insights</a><br>
+      <a href="https://github.com/prtpj1/project-inventory-report">32º Inventory Report</a><br>
+      <a href="#">33º 🚧</a><br>
+      <a href="https://github.com/prtpj1/project-algorithms">34º Algorithms</a><br>
+      <a href="https://github.com/prtpj1/project-ting">35º TING ⭐</a>
+    </td>
+  </tr>
 </table>
+
+
+
 
 
 <!--<p align="center">
