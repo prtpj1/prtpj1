@@ -106,25 +106,25 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://github.com/prtpj1/project-lessons-learned">1º Lessons Learned</a><br>
-      <a href="https://github.com/prtpj1/project-playground-functions">2º Playground Functions</a><br>
-      <a href="https://github.com/prtpj1/project-pixels-art">3º Pixels Art</a><br>
-      <a href="https://github.com/prtpj1/project-todo-list">4º ToDo List</a><br>
-      <a href="https://github.com/prtpj1/project-trybewarts">5º Trybewarts</a><br>
-      <a href="https://github.com/prtpj1/project-js-unit-tests">6º Unit Tests</a><br>
-      <a href="https://github.com/prtpj1/project-zoo-functions">7º ZooFunctions</a>
+      <a href="https://github.com/prtpj1/project-lessons-learned">1º Lessons Learned:</a><span> Learning about Semantic HTML and CSS</span><br>
+      <a href="https://github.com/prtpj1/project-playground-functions">2º Playground Functions:</a><span> First level functions in JavaScript</span><br>
+      <a href="https://github.com/prtpj1/project-pixels-art">3º Pixels Art:</a><span> Website to draw colored pixels</span><br>
+      <a href="https://github.com/prtpj1/project-todo-list">4º ToDo List</a><span> using HTML, CSS and JS</span><br>
+      <a href="https://github.com/prtpj1/project-trybewarts">5º Trybewarts:</a><span> Feedback form</span><br>
+      <a href="https://github.com/prtpj1/project-js-unit-tests">6º Unit Tests</a><span> using Jest</span><br>
+      <a href="https://github.com/prtpj1/project-zoo-functions">7º Zoo Functions:</a><span> Next level functions in JavaScript</span>
     </td>
     <td>
-      <a href="https://github.com/prtpj1/projeto-shopping-cart">8º Shopping Cart⭐</a><br>
-      <a href="https://github.com/prtpj1/project-solar-system">9º Solar System</a><br>
-      <a href="https://github.com/prtpj1/project-tryunfo">10º Tryunfo</a><br>
-      <a href="https://github.com/prtpj1/project-trybetunes">11º TrybeTunes</a><br>
-      <a href="https://github.com/prtpj1/project-online-store">12º OnlineStore🧑‍🤝‍🧑</a><br>
-      <a href="https://github.com/prtpj1/projeto-react-testing-library">13º React Testing Library</a><br>
-      <a href="https://github.com/prtpj1/projeto-my-wallet">14º My Wallet</a><br>
-      <a href="https://github.com/prtpj1/project-trivia">15º Trivia⭐</a><br>
-      <a href="#">16º 🚧</a><br>
-      <a href="https://github.com/prtpj1/app-recipes">17º Recipes App🧑‍🤝‍🧑⭐</a>
+      <a href="https://github.com/prtpj1/projeto-shopping-cart">8º Shopping Cart⭐</a><span></span><br>
+      <a href="https://github.com/prtpj1/project-solar-system">9º Solar System</a><span></span><br>
+      <a href="https://github.com/prtpj1/project-tryunfo">10º Tryunfo</a><span></span><br>
+      <a href="https://github.com/prtpj1/project-trybetunes">11º TrybeTunes</a><span></span><br>
+      <a href="https://github.com/prtpj1/project-online-store">12º OnlineStore🧑‍🤝‍🧑</a><span></span><br>
+      <a href="https://github.com/prtpj1/projeto-react-testing-library">13º React Testing Library</a><span></span><br>
+      <a href="https://github.com/prtpj1/projeto-my-wallet">14º My Wallet</a><span></span><br>
+      <a href="https://github.com/prtpj1/project-trivia">15º Trivia⭐</a><span></span><br>
+      <a href="#">16º 🚧</a><span></span><br>
+      <a href="https://github.com/prtpj1/app-recipes">17º Recipes App🧑‍🤝‍🧑⭐</a><span></span>
     </td>
   </tr>
   <tr>
@@ -133,26 +133,26 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/prtpj1/project-docker-todo-list">18º ToDo List (Docker)</a><br>
-      <a href="https://github.com/prtpj1/project-mysql-all-for-one">19º All for One</a><br>
-      <a href="https://github.com/prtpj1/project-mysql-one-for-all">20º One for All</a><br>
-      <a href="https://github.com/prtpj1/project-talker-manager">21º Talker Manager</a><br>
-      <a href="https://github.com/prtpj1/project-store-manager">22º Store Manager⭐</a><br>
-      <a href="https://github.com/prtpj1/project-blogs-api">23º Blogs API⭐</a><br>
-      <a href="#">24º 🚧</a><br>
-      <a href="https://github.com/prtpj1/project-trybesmith">25º Trybesmith⭐</a><br>
-      <a href="https://github.com/prtpj1/project-trybers-and-dragons">26º Trybers & Dragons</a><br>
-      <a href="#">27º 🚧</a><br>
-      <a href="#">28º 🚧</a><br>
-      <a href="#">29º 🚧</a><br>
-      <a href="#">30º 🚧</a>
+      <a href="https://github.com/prtpj1/project-docker-todo-list">18º ToDo List (Docker)</a><span></span><br>
+      <a href="https://github.com/prtpj1/project-mysql-all-for-one">19º All for One</a><span></span><br>
+      <a href="https://github.com/prtpj1/project-mysql-one-for-all">20º One for All</a><span></span><br>
+      <a href="https://github.com/prtpj1/project-talker-manager">21º Talker Manager</a><span></span><br>
+      <a href="https://github.com/prtpj1/project-store-manager">22º Store Manager⭐</a><span></span><br>
+      <a href="https://github.com/prtpj1/project-blogs-api">23º Blogs API⭐</a><span></span><br>
+      <a href="#">24º 🚧</a><span></span><br>
+      <a href="https://github.com/prtpj1/project-trybesmith">25º Trybesmith⭐</a><span></span><br>
+      <a href="https://github.com/prtpj1/project-trybers-and-dragons">26º Trybers & Dragons</a><span></span><br>
+      <a href="#">27º 🚧</a><span></span><br>
+      <a href="#">28º 🚧</a><span></span><br>
+      <a href="#">29º 🚧</a><span></span><br>
+      <a href="#">30º 🚧</a><span></span>
     </td>
     <td valign="top">
-      <a href="https://github.com/prtpj1/project-job-insights">31º Job Insights</a><br>
-      <a href="https://github.com/prtpj1/project-inventory-report">32º Inventory Report</a><br>
-      <a href="#">33º 🚧</a><br>
-      <a href="https://github.com/prtpj1/project-algorithms">34º Algorithms</a><br>
-      <a href="https://github.com/prtpj1/project-ting">35º TING ⭐</a>
+      <a href="https://github.com/prtpj1/project-job-insights">31º Job Insights</a><span></span><br>
+      <a href="https://github.com/prtpj1/project-inventory-report">32º Inventory Report</a><span></span><br>
+      <a href="#">33º 🚧</a><span></span><br>
+      <a href="https://github.com/prtpj1/project-algorithms">34º Algorithms</a><span></span><br>
+      <a href="https://github.com/prtpj1/project-ting">35º TING ⭐</a><span></span>
     </td>
   </tr>
 </table>
