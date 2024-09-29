@@ -116,15 +116,15 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
     </td>
     <td>
       <a href="https://github.com/prtpj1/projeto-shopping-cart">8º Shopping Cart⭐</a><span> Simulates an OnlineStore Shopping Cart</span><br>
-      <a href="https://github.com/prtpj1/project-solar-system">9º Solar System</a><span>Solar System Cards w/ Space Missions Info</span><br>
-      <a href="https://github.com/prtpj1/project-tryunfo">10º Tryunfo</a><span>Simulation of a card game called SuperTrunfo</span><br>
-      <a href="https://github.com/prtpj1/project-trybetunes">11º TrybeTunes</a><span>App to search and reproduce musics</span><br>
-      <a href="https://github.com/prtpj1/project-online-store">12º OnlineStore🧑‍🤝‍🧑</a>An Online Store simulation<span></span><br>
-      <a href="https://github.com/prtpj1/projeto-react-testing-library">13º React Testing Library</a><span>Tests on React using RTL</span><br>
-      <a href="https://github.com/prtpj1/projeto-my-wallet">14º My Wallet</a><span>A virtual wallet for expenses and a currency converter</span><br>
-      <a href="https://github.com/prtpj1/project-trivia">15º Trivia⭐</a><span>A trivia game</span><br>
+      <a href="https://github.com/prtpj1/project-solar-system">9º Solar System</a><span> Solar System Cards w/ Space Missions Info</span><br>
+      <a href="https://github.com/prtpj1/project-tryunfo">10º Tryunfo</a><span> Simulation of a card game called SuperTrunfo</span><br>
+      <a href="https://github.com/prtpj1/project-trybetunes">11º TrybeTunes</a><span> App to search and reproduce musics</span><br>
+      <a href="https://github.com/prtpj1/project-online-store">12º OnlineStore🧑‍🤝‍🧑</a> An Online Store simulation<span></span><br>
+      <a href="https://github.com/prtpj1/projeto-react-testing-library">13º React Testing Library</a><span> Tests on React using RTL</span><br>
+      <a href="https://github.com/prtpj1/projeto-my-wallet">14º My Wallet</a><span> A virtual wallet for expenses and a currency converter</span><br>
+      <a href="https://github.com/prtpj1/project-trivia">15º Trivia⭐</a><span> A trivia game</span><br>
       <a href="#">16º 🚧</a><span></span><br>
-      <a href="https://github.com/prtpj1/app-recipes">17º Recipes App🧑‍🤝‍🧑⭐</a><span>Recipes for Drinks and Foods</span>
+      <a href="https://github.com/prtpj1/app-recipes">17º Recipes App🧑‍🤝‍🧑⭐</a><span> Recipes for Drinks and Foods</span>
     </td>
   </tr>
   <tr>
