@@ -133,26 +133,26 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/prtpj1/project-docker-todo-list">18º ToDo List (Docker)</a><span></span><br>
-      <a href="https://github.com/prtpj1/project-mysql-all-for-one">19º All for One</a><span></span><br>
-      <a href="https://github.com/prtpj1/project-mysql-one-for-all">20º One for All</a><span></span><br>
-      <a href="https://github.com/prtpj1/project-talker-manager">21º Talker Manager</a><span></span><br>
-      <a href="https://github.com/prtpj1/project-store-manager">22º Store Manager⭐</a><span></span><br>
-      <a href="https://github.com/prtpj1/project-blogs-api">23º Blogs API⭐</a><span></span><br>
+      <a href="https://github.com/prtpj1/project-docker-todo-list">18º ToDo List</a><span> A ToDo List with Docker</span><br>
+      <a href="https://github.com/prtpj1/project-mysql-all-for-one">19º All for One</a><span> Manipulating a DB using SQL</span><br>
+      <a href="https://github.com/prtpj1/project-mysql-one-for-all">20º One for All</a><span> Manipulating a DB using SQL</span><br>
+      <a href="https://github.com/prtpj1/project-talker-manager">21º Talker Manager</a><span> API CRUD for speakers</span><br>
+      <a href="https://github.com/prtpj1/project-store-manager">22º Store Manager⭐</a><span> RESTful API using MSC architecture</span><br>
+      <a href="https://github.com/prtpj1/project-blogs-api">23º Blogs API⭐</a><span> API & DB for a blog content</span><br>
       <a href="#">24º 🚧</a><span></span><br>
-      <a href="https://github.com/prtpj1/project-trybesmith">25º Trybesmith⭐</a><span></span><br>
-      <a href="https://github.com/prtpj1/project-trybers-and-dragons">26º Trybers & Dragons</a><span></span><br>
+      <a href="https://github.com/prtpj1/project-trybesmith">25º Trybesmith⭐</a><span> CRUD for a medieval store</span><br>
+      <a href="https://github.com/prtpj1/project-trybers-and-dragons">26º Trybers & Dragons</a><span> Create classes and interfaces applying SOLID and OOP</span><br>
       <a href="#">27º 🚧</a><span></span><br>
       <a href="#">28º 🚧</a><span></span><br>
       <a href="#">29º 🚧</a><span></span><br>
       <a href="#">30º 🚧</a><span></span>
     </td>
     <td valign="top">
-      <a href="https://github.com/prtpj1/project-job-insights">31º Job Insights</a><span></span><br>
-      <a href="https://github.com/prtpj1/project-inventory-report">32º Inventory Report</a><span></span><br>
+      <a href="https://github.com/prtpj1/project-job-insights">31º Job Insights</a><span> Functions for analyzing a dataset on jobs</span><br>
+      <a href="https://github.com/prtpj1/project-inventory-report">32º Inventory Report</a><span> Functions for reading and writing JSON and CSV files</span><br>
       <a href="#">33º 🚧</a><span></span><br>
-      <a href="https://github.com/prtpj1/project-algorithms">34º Algorithms</a><span></span><br>
-      <a href="https://github.com/prtpj1/project-ting">35º TING ⭐</a><span></span>
+      <a href="https://github.com/prtpj1/project-algorithms">34º Algorithms</a><span> Functions to solve problems and optimize algorithms</span><br>
+      <a href="https://github.com/prtpj1/project-ting">35º TING ⭐</a><span> Simulates a document indexing algorithm</span>
     </td>
   </tr>
 </table>
