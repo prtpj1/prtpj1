@@ -124,7 +124,7 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
       <a href="https://github.com/prtpj1/projeto-my-wallet">14º My Wallet</a><span> A virtual wallet for expenses and a currency converter</span><br>
       <a href="https://github.com/prtpj1/project-trivia">15º Trivia⭐</a><span> A trivia game</span><br>
       <a href="#">16º 🚧</a><span></span><br>
-      <a href="https://github.com/prtpj1/app-recipes">17º Recipes App🧑‍🤝‍🧑⭐</a><span> Recipes for Drinks and Foods</span>
+      <a href="https://github.com/prtpj1/app-recipes">17º Recipes Book🧑‍🤝‍🧑⭐</a><span> Recipes for Drinks and Foods</span>
     </td>
   </tr>
   <tr>
