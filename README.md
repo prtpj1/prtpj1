@@ -150,7 +150,7 @@ Aprendi também **Algoritmos, Arquitetura de Software (MSC), Estrutura de Dados,
     <td valign="top">
       <a href="https://github.com/prtpj1/project-job-insights">31º Job Insights</a><span> Functions for analyzing a dataset on jobs</span><br>
       <a href="https://github.com/prtpj1/project-inventory-report">32º Inventory Report</a><span> Functions for reading and writing JSON and CSV files</span><br>
-      <a href="#">33º 🚧</a><span></span><br>
+      <a href="#https://github.com/prtpj1/project-tech-news">33º TechNews</a><span>Scraping data from a blog</span><br>
       <a href="https://github.com/prtpj1/project-algorithms">34º Algorithms</a><span> Functions to solve problems and optimize algorithms</span><br>
       <a href="https://github.com/prtpj1/project-ting">35º TING ⭐</a><span> Simulates a document indexing algorithm</span>
     </td>
