@@ -1,5 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGBkJZAZOc9Ag/profile-displaybackgroundimage-shrink_350_1400/B4DaGJiQUXIcAU-/0/1793308821070?e=1795046400&v=beta&t=eVIGQ9nGBIMp4Z7odD9OMtLVkxjMIhn4OfRs8iHfy0I" alt="header" />
+<img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/header_2026.png" alt="header" />
 <p align="center">
 <a href="#-im-paulo-welcome-to-my-profile">About Me</a> •
 <a href="#-eu-sou-o-paulo-bem-vindoa-ao-meu-perfil">Sobre mim</a> •
